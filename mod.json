@@ -1,0 +1,10 @@
+{
+    "Name": "Enhancements and additions for BTG Heavy Metal Expansion",
+    "Version": "0.0.1",
+	"Author": "Mad",
+    "Enabled": true,
+	"Manifest": [
+		{ "Type": "ChassisDef", "Path": "ChassisDefs\\" },
+		{ "Type": "MechDef", "Path": "MechDefs\\" }
+    ]
+}
