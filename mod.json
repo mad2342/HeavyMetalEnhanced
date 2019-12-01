@@ -5,6 +5,7 @@
     "Enabled": true,
 	"Manifest": [
 		{ "Type": "ChassisDef", "Path": "ChassisDefs\\" },
-		{ "Type": "MechDef", "Path": "MechDefs\\" }
+		{ "Type": "MechDef", "Path": "MechDefs\\" },
+		{ "Type": "WeaponDef", "Path": "WeaponDefs\\" }
     ]
 }
