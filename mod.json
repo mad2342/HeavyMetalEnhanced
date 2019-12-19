@@ -1,12 +1,15 @@
 {
-    "Name": "Enhancements and additions for BTG Heavy Metal Expansion",
-    "Version": "0.0.1",
-	"Author": "Mad",
+    "Name": "HeavyMetalEnhanced",
     "Enabled": true,
-	"Manifest": [
-		{ "Type": "ChassisDef", "Path": "ChassisDefs\\" },
-		{ "Type": "MechDef", "Path": "MechDefs\\" },
-		{ "Type": "WeaponDef", "Path": "WeaponDefs\\" },
-		{ "Type": "UpgradeDef", "Path": "UpgradeDefs\\" }
+    
+    "Version": "1.8.1",
+    "Description": "Enhancements and additions for BTG Heavy Metal Expansion.",
+    "Author": "Mad",
+    
+    "Manifest": [
+        { "Type": "ChassisDef", "Path": "ChassisDefs\\" },
+        { "Type": "MechDef", "Path": "MechDefs\\" },
+        { "Type": "WeaponDef", "Path": "WeaponDefs\\" },
+        { "Type": "UpgradeDef", "Path": "UpgradeDefs\\" }
     ]
 }
