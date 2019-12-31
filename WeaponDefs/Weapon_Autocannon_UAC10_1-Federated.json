@@ -27,7 +27,7 @@
     "ShotsWhenFired" : 2,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 3,
-    "Instability" : 25,
+    "Instability" : 35,
     "WeaponEffectID" : "WeaponEffect-Weapon_AC10_Ultra",
     "Description" : {
         "Cost" : 450000,

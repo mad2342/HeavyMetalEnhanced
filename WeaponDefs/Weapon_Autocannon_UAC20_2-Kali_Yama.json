@@ -27,7 +27,7 @@
     "ShotsWhenFired" : 2,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 4,
-    "Instability" : 40,
+    "Instability" : 50,
     "WeaponEffectID" : "WeaponEffect-Weapon_AC20_Ultra",
     "Description" : {
         "Cost" : 650000,

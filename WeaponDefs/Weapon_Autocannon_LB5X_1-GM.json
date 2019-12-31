@@ -26,7 +26,7 @@
     "ShotsWhenFired" : 10,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 2,
-    "Instability" : 4,
+    "Instability" : 5,
     "WeaponEffectID" : "WeaponEffect-Weapon_LB5X",
     "Description" : {
         "Cost" : 200000,

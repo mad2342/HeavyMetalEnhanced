@@ -26,7 +26,7 @@
     "ShotsWhenFired" : 6,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 4,
-    "Instability" : 12,
+    "Instability" : 13,
     "WeaponEffectID" : "WeaponEffect-Weapon_LB20X",
     "Description" : {
         "Cost" : 250000,

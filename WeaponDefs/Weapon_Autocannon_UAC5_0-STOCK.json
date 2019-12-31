@@ -27,7 +27,7 @@
     "ShotsWhenFired" : 2,
     "ProjectilesPerShot" : 2,
     "AttackRecoil" : 2,
-    "Instability" : 10,
+    "Instability" : 22,
     "WeaponEffectID" : "WeaponEffect-Weapon_AC5_Ultra",
     "Description" : {
         "Cost" : 220000,

@@ -27,7 +27,7 @@
     "ShotsWhenFired" : 12,
     "ProjectilesPerShot" : 1,
     "AttackRecoil" : 1,
-    "Instability" : 1,
+    "Instability" : 2,
     "WeaponEffectID" : "WeaponEffect-Weapon_LB2X",
     "Description" : {
         "Cost" : 190000,
