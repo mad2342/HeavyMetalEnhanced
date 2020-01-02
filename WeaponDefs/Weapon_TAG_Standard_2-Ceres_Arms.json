@@ -29,10 +29,10 @@
     "Instability" : 0,
     "WeaponEffectID" : "WeaponEffect-Weapon_TAG",
     "Description" : {
-        "Cost" : 340000,
+        "Cost" : 750000,
         "Rarity" : 99,
         "Purchasable" : true,
-        "Manufacturer" : "Garret",
+        "Manufacturer" : "Ceres Arms",
         "Model" : "Target Acquisition Gear",
         "UIName" : "TAG + +",
         "Id" : "Weapon_TAG_Standard_2-Ceres_Arms",
